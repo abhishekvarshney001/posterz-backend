@@ -1,0 +1,27 @@
+// {
+//   "compilerOptions": {
+//     "moduleResolution": "nodenext",
+//     "target": "ES2021",
+//     "checkJs": true,
+//     "allowJs": true
+//   }
+// }
+
+
+// {
+//   "compilerOptions": {
+//     "module": "CommonJS", // Update this line
+//     "moduleResolution": "node",
+//     "target": "ES2021",
+//     "checkJs": true,
+//     "allowJs": true
+//   }
+// }
+
+{
+  "compilerOptions": {
+    "checkJs": true
+  }
+}
+
+
